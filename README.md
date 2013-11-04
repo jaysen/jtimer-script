@@ -6,8 +6,10 @@ Simple shell script timer with visible countdown and repeatable (speaking) alarm
 ## Version
 Version 1.0
 
-## Running the command
-run from shell - takes a required argument of TIME in seconds
+## Using the script
+Copy into your path. 
+Run from shell - takes a required argument of TIME in seconds. 
+Run the script without any arguments to see a description of the expected arguments and their order.
 
 ### Argument List:
 * arg 1: TIME in seconds (REQUIRED) 
